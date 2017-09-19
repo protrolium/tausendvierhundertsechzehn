@@ -12,4 +12,4 @@ Conceptual Artist David Lamelas (b. 1946) is known today first and foremost for 
 
 - - -
 
-![performance note](http://gavingamboa.net/tausenvierhundertsechzehn/performanceNote.png)
+![performance note](http://gavingamboa.net/tausendvierhundertsechzehn/performanceNote.png)
